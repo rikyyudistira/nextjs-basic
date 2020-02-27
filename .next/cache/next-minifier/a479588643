@@ -1,0 +1,1 @@
+{"code":"(window.webpackJsonp=window.webpackJsonp||[]).push([[9],{RNiq:function(n,e,t){\"use strict\";t.r(e);var u=t(\"q1tI\"),o=t.n(u),i=t(\"ds/u\"),w=o.a.createElement;e.default=function(){return w(i.a,null,w(\"h1\",null,\"Welcome to Index\"))}},vlRD:function(n,e,t){(window.__NEXT_P=window.__NEXT_P||[]).push([\"/\",function(){return t(\"RNiq\")}])}},[[\"vlRD\",1,2,0,3]]]);"}
